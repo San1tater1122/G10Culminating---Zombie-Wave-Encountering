@@ -16,7 +16,6 @@ https://raw.githack.com/San1tater1122/G10Culminating---Zombie-Wave-Encountering/
 - Added click sound effects
 - Added zombie collision volume
 - Added Border for the player
-- Give up weapons "Cross Bow" (won't add it)
 
 # _**Bug Fixed**_
 
