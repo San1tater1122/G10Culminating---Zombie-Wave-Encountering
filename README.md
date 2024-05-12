@@ -1,5 +1,22 @@
-# G10Culminating
-The Grade 10 culminating game. Download the zip file, unzip it and put it in VScode. Go alive and play it.
-- ### The Download link will be in the releases.
-- ### If you want to preview, go and check other branch to see the version you want to preview
-- ### Game button tutorial will place on each version‘s README.md
+**Note: This is a small game made using Javascript’s p5.js library.**
+**Note: This is a zip document, you need to unzip it. To play it you need to put it in to VScode, because it is a source code files**
+
+# _**What's New**_
+- new Weapon "CrossBow"
+
+# _**Bug Fixed**_
+
+#  **_Game Content_**
+**Beat all zombie wave and you will win.**
+**You have a sword, a crossbow, and a health 20.**
+**Press 1 to pull out the sword**
+**Press 2 to pull out the crossbow**
+
+# _**Game Image**_
+<img width="798" alt="Version 1.0" src="https://github.com/IMJH1122/G10Culminating/assets/98987733/4d8792aa-3c93-4765-b49b-e7e43422dce8">
+
+<img width="798" alt="Diff Chose" src="https://github.com/San1tater1122/G10Culminating---Zombie-Wave-Encountering/assets/98987733/a1753cb1-a0a1-4a17-ab93-34c56b9a50b0">
+
+<img width="813" alt="In game" src="https://github.com/IMJH1122/G10Culminating/assets/98987733/37920ab6-3b33-4c3f-948c-c839a5cc1abd">
+
+<img width="791" alt="截屏2024-05-12 10 27 55" src="https://github.com/San1tater1122/G10Culminating---Zombie-Wave-Encountering/assets/98987733/43d8f9f1-6d0b-480a-8f98-f88b73879269">
