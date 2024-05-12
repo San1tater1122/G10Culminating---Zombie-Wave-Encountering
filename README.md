@@ -15,10 +15,10 @@ The Grade 10 culminating game. This is version beta 1.2.0
 # _**Bug Fixed**_
 
 #  **_Game Content_**
-**Beat all zombie wave and you will win.**
-**You have a sword, a crossbow, and a health 20.**
-**Press 1 to pull out the sword**
-**Press 2 to pull out the crossbow**
+- **Beat all zombie wave and you will win.**
+- **You have a sword, a crossbow, and a health 20.**
+- **Press 1 to pull out the sword, Press 2 to pull out the crossbow**
+- **Hold 2 to check how many arrow left**
 
 # _**Game Image**_
 <img width="798" alt="Version 1.0" src="https://github.com/IMJH1122/G10Culminating/assets/98987733/4d8792aa-3c93-4765-b49b-e7e43422dce8">
