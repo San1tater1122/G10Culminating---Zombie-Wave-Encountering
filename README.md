@@ -1,3 +1,11 @@
+# G10Culminating
+The Grade 10 culminating game. This is version beta 1.2.0
+
+# If you want to preview this version, this is the link:
+
+———————————————————This is a dividing line——————————————————————
+
+
 **Note: This is a small game made using Javascript’s p5.js library.**
 **Note: This is a zip document, you need to unzip it. To play it you need to put it in to VScode, because it is a source code files**
 
