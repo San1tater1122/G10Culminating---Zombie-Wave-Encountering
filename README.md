@@ -2,7 +2,7 @@
 The Grade 10 culminating game. This is version beta 1.2.1
 
 # If you want to preview this version, this is the link:
-
+https://raw.githack.com/San1tater1122/G10Culminating---Zombie-Wave-Encountering/Version-Beta-1.2.1-Preview/index.html
 
 ———————————————————This is a dividing line——————————————————————
 
