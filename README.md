@@ -1,8 +1,5 @@
 This is version beta 1.1.0
 
-———————————————————This is a dividing line——————————————————————
-
-
 **Note: This is a small game made using Javascript’s p5.js library.**
 **Note: This is a zip document, you need to unzip it. To play it you need to put it in to VScode, because it is a source code files**
 
