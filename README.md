@@ -1,11 +1,4 @@
-# G10Culminating
-The Grade 10 culminating game. This is version beta 1.2.0
-
-# If you want to preview this version, this is the link:
-https://raw.githack.com/San1tater1122/G10Culminating---Zombie-Wave-Encountering/Version-Beta-1.2.0-Preview/index.html
-
-———————————————————This is a dividing line——————————————————————
-
+This is version beta 1.2.0
 
 **Note: This is a small game made using Javascript’s p5.js library.**
 **Note: This is a zip document, you need to unzip it. To play it you need to put it in to VScode, because it is a source code files**
